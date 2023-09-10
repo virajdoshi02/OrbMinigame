@@ -7,4 +7,4 @@ The University of Pennsylvania Game Research and Development Environment (UPGRAD
 
 So I created a short minigame where the player has to drop the monster down into the correct opening in order to earn coins, but if they get into the wrong one, they lose coins. These coins can later be used to open more boxes and get more monsters, which allows the player to play more minigames.
 
-**This game belongs to UPGRADE and can be [played](https://store.steampowered.com/app/2026430/UPGRADE_202122__Bionic_Traveler/)https://store.steampowered.com/app/2026430/UPGRADE_202122__Bionic_Traveler/**
+**This game belongs to UPGRADE and can be [played](https://store.steampowered.com/app/2026430/UPGRADE_202122__Bionic_Traveler/)**
